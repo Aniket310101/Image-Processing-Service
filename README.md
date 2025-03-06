@@ -50,3 +50,15 @@ npm install
 ```bash
 npm start
 ```
+
+## POSTMAN COLLECTION
+https://www.postman.com/ani80/workspace/image-processing-service/collection/16362923-b7a7deae-c48a-41fc-b745-7ea9e3122a3f?action=share&creator=16362923
+
+## TECHNICAL DOCUMENTATION
+https://docs.google.com/document/d/1z--10hrzBkxZyDrScX5rw_45twwwHbc8Ys7ZhtEkPlU/edit?usp=sharing
+
+## API URL
+https://image-processing-service-6z96.onrender.com
+
+## SWAGGER
+https://image-processing-service-6z96.onrender.com/api-docs
